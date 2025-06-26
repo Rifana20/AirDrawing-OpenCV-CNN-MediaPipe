@@ -10,7 +10,6 @@ Instead of using a large pre-made dataset, the model was trained on a **small ha
 ## 🚀 Features
 
 - Real-time air drawing using webcam and index finger tracking
-- Pinch detection to simulate drawing on a virtual canvas
 - Custom CNN trained on augmented grayscale images (64x64)
 - Live sketch classification and prediction feedback
 - Built using TensorFlow, OpenCV, and MediaPipe
