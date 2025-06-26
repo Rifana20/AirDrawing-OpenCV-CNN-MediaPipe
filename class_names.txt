@@ -1,0 +1,10 @@
+apple
+butterfly
+fish
+flower
+home
+leaf
+love
+pot
+smiley
+star
