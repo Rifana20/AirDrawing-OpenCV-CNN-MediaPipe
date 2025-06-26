@@ -22,9 +22,9 @@ Instead of using a large pre-made dataset, the model was trained on a **small ha
 
 AirDrawing-OpenCV-CNN-MediaPipe/
 ├── images/                  # Original hand-drawn sketches (10 per class)
-├── augmented\_images/        # Augmented dataset for training
-├── class\_names.txt          # Stores class labels in order
-├── sketch\_model.keras       # Trained CNN model
+├── augmented_images/        # Augmented dataset for training
+├── class_names.txt          # Stores class labels in order
+├── sketch_model.keras       # Trained CNN model
 ├── augment.py               # Script to augment image dataset
 ├── train.py                 # Script to train CNN model
 ├── canvas.py                # Real-time air drawing and prediction
@@ -103,7 +103,8 @@ python canvas.py
 
 ---
 
-## 🖼️ Example Output
+## 🖼️Output
+![WhatsApp Image 2025-06-26 at 12 35 54_108bcb78](https://github.com/user-attachments/assets/5a12a4c8-0488-410c-889b-0bd06ec6d43d)
 
 
 ---
