@@ -7,6 +7,12 @@ Instead of using a large pre-made dataset, the model was trained on a **small ha
 
 ---
 
+## 🖼️Output
+![WhatsApp Image 2025-06-26 at 12 35 54_108bcb78](https://github.com/user-attachments/assets/5a12a4c8-0488-410c-889b-0bd06ec6d43d)
+
+
+---
+
 ## 🚀 Features
 
 - Real-time air drawing using webcam and index finger tracking
@@ -103,11 +109,6 @@ python canvas.py
 
 ---
 
-## 🖼️Output
-![WhatsApp Image 2025-06-26 at 12 35 54_108bcb78](https://github.com/user-attachments/assets/5a12a4c8-0488-410c-889b-0bd06ec6d43d)
-
-
----
 
 ## ✨ What I Learned
 
