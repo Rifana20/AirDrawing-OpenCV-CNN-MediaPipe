@@ -1,5 +1,5 @@
 
-# 🖐️ Air Drawing Recognition System using CNN, OpenCV & MediaPipe
+# Air Drawing Recognition System using CNN, OpenCV & MediaPipe
 
 This project brings AI and creativity together by allowing users to draw in the air using their **index finger**, with the sketch being classified in real-time by a custom-trained CNN model.
 
@@ -7,7 +7,7 @@ Instead of using a large pre-made dataset, the model was trained on a **small ha
 
 ---
 
-## 🖼️Output
+## Output
 ![WhatsApp Image 2025-06-26 at 12 35 54_108bcb78](https://github.com/user-attachments/assets/5a12a4c8-0488-410c-889b-0bd06ec6d43d)
 
 
@@ -119,7 +119,7 @@ python canvas.py
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Increase dataset size with more classes and samples
 * Improve model robustness and accuracy
