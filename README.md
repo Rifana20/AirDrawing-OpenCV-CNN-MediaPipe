@@ -13,7 +13,7 @@ Instead of using a large pre-made dataset, the model was trained on a **small ha
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Real-time air drawing using webcam and index finger tracking
 - Custom CNN trained on augmented grayscale images (64x64)
@@ -22,7 +22,7 @@ Instead of using a large pre-made dataset, the model was trained on a **small ha
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 
@@ -40,7 +40,7 @@ AirDrawing-OpenCV-CNN-MediaPipe/
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **Python**  
 - **TensorFlow / Keras** – for building and training the CNN  
@@ -51,7 +51,7 @@ AirDrawing-OpenCV-CNN-MediaPipe/
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 ### 1. Clone the repository
 
@@ -110,7 +110,7 @@ python canvas.py
 ---
 
 
-## ✨ What I Learned
+##  What I Learned
 
 * Creating an end-to-end pipeline from data collection to real-time AI deployment
 * Handling small datasets with augmentation
